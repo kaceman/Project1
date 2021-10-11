@@ -14,7 +14,7 @@ mvn spring-boot:run
 
 ## Browse APP
 
-[http:localhost:8080/](http:localhost:8080/)
+[http://localhost:8080/](http://localhost:8080/)
 
 ```text
 username: ADMIN
